@@ -1,1 +1,1 @@
-This a Tick-Tack-Toe game programmed in java using Swing. 
+This a Tick-Tack-Toe game GUI programmed in java using Swing. 
